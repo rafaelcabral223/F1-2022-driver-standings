@@ -1,0 +1,53 @@
+.title {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+
+.container {
+    margin: 50px;
+}
+
+.table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.table-head {
+    border: 1px solid black;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.driver-position, .driver-name, .constructor-name, .driver-points {
+    border: 1px solid black;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 300;
+    padding: 10px;
+}
+
+.table-body {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table-row {
+    color: black;
+    transition: 0s background-color;
+}
+
+.table-row:hover {
+    background-color: black;
+    color: white;
+    transition-delay: 0.01s;
+    transition-duration: 0.4s;
+}
+
+.table-data {
+    border: 1px solid black;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: larger;
+    font-weight: 300;
+    height: 15%; 
+    padding: 10px;
+    width: 15%;
+}
