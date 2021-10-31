@@ -9,7 +9,7 @@ On this website page you can find the Formula 1 2021 Drivers Standings. Here you
 If you want, you can use the dark mode in the page. You need to click in the toggle to activate dark mode.
 <br>
 <br>
-You can find the site by clicking <a href="https://formula1driverstandings.netlify.app">here</a>
+You can find the site by clicking <a href="#">here</a>
 #
 <br>
 Points will be updated after races.
