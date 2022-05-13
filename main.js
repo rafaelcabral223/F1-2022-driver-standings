@@ -1,6 +1,6 @@
 const nome = document.getElementById('name');
  
-fetch(`https://ergast.com/api/f1/2021/driverStandings.json`).then(resposta => {
+fetch(`https://ergast.com/api/f1/2022/driverStandings.json`).then(resposta => {
         return resposta.json();
         }).then(data => {
                 const datas = data.MRData.StandingsTable.StandingsLists[0].DriverStandings
